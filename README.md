@@ -1,6 +1,6 @@
 # Nodejs project setup with Babel for production.
 
-This repository is based on the video created on [Cules Coding](https://www.youtube.com/channel/UCBaGowNYTUsm3IDaHbLRMYw?sub_confirmation=1) youtube channel. It has the proper setup for building a complex nodejs application. I have already wrote a blog post. You can check this out from [here](https://dev.to/thatanjan/set-up-nodejs-project-with-babel-198p)
+This repository is based on the [Setup NodeJS with Babel for production](https://youtu.be/7vGk8vFDGfA) video created on [Cules Coding](https://www.youtube.com/channel/UCBaGowNYTUsm3IDaHbLRMYw?sub_confirmation=1) youtube channel. It has the proper setup for building a complex nodejs application. I have already wrote a blog post. You can check this out from [here](https://www.culescoding.space/blog/setup-nodejs-with-babel-for-production)
 
 ## The commands
 
@@ -50,12 +50,12 @@ Please Subscribe: https://www.youtube.com/channel/UCBaGowNYTUsm3IDaHbLRMYw?sub_c
 
 linkedin: [@thatanjan](https://linkedin.com/in/thatanjan/)
 
-portofolio: [anjan](https://anjan.vercel.app/)
+portofolio: [anjan](https://thatanjan.me/)
 
-Github: [@thatanjan](https://github.com/thatAnjan/)
+Github: [@thatanjan](https://github.com/thatanjan/)
 
-Instagram (perosnal): [@thatanjan](https://instagram.com/thatAnjan/)
+Instagram (perosnal): [@thatanjan](https://instagram.com/thatanjan/)
 
 Instagram (youtube channel): [@thatanjan](https://instagram.com/cules_coding/)
 
-twitter: [@thatanjan](https://twitter.com/thatAnjan)
+twitter: [@thatanjan](https://twitter.com/thatanjan)
